@@ -1,4 +1,4 @@
 kcb:
   config:
     env: dev
-    module: card2
+    module: card
